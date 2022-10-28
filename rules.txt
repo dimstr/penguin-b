@@ -1,1 +1,11 @@
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus nulla arcu, vitae scelerisque eros accumsan vel. Mauris venenatis nisi vitae mi sollicitudin, ac aliquam sem fermentum. Proin feugiat euismod odio, nec rhoncus risus scelerisque sed. Proin maximus et nisi sit amet convallis. Sed auctor convallis varius. Suspendisse euismod risus nec pretium pellentesque. Sed ipsum lorem, viverra nec dui at, rhoncus euismod libero. Maecenas pharetra ex massa, consequat tincidunt tellus malesuada at. Proin consequat pellentesque mauris ac porttitor. Aliquam maximus a velit sit amet porta. Suspendisse commodo, lectus in vehicula hendrerit, quam felis molestie libero, in vulputate sem tortor rhoncus purus. Mauris sit amet fermentum nunc, vel volutpat lectus. In pellentesque, leo eu vulputate varius, massa nisi tempor ipsum, vestibulum varius elit nulla at lacus. Proin venenatis porta nunc, at semper quam elementum in. Integer purus erat, consectetur ut leo vel, pulvinar pretium orci.
+<@&1016757845083033691>  - роль владельца 
+<@&1018037766262640700>  - роль исключительно для <@644544882664276007>
+<@&1018238101350522930>  - роль исключительно для <@940108332906188810>  
+<@&1016757599137452142> - администрация сервера 
+<@&1018954362468454550>  - не админ и не участник, что-то среднее.
+<@&1021017034856874004>  - роль для тех кто проявляет активность в канале <#1021017955779235972>  ( и если это его канал)
+<@&1018076373555871814> - исключительно для ботов этого сервера.
+<@&1021681525412089886> - выдаётся по получению 5 ранга в <@310848622642069504> 
+<@&1018109363036106812>  - роль которая даëт возможность отправлять файлы и картинки.(Нужен 1 ранг у <@310848622642069504> ), также эта роль  даёт возможность отправлять сообщения в канал <#1016760917486223430>
+<@&1021074904226996274> - даётся по усмотрению администрации
+<@&1017873202283823204> - обычная роль которая выдаëтся каждому
